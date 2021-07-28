@@ -16,6 +16,10 @@ This is Python version 3.11.0 alpha 0
 .. image:: https://img.shields.io/badge/discourse-join_chat-brightgreen.svg
    :alt: Python Discourse chat
    :target: https://discuss.python.org/
+   
+.. image:: https://img.shields.io/badge/discourse-join_chat-brightgreen.svg
+   :alt: Python Discourse chat
+   :target: https://discuss.python.org/
 
 
 Copyright (c) 2001-2021 Python Software Foundation.  All rights reserved.
